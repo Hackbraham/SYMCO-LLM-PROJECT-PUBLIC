@@ -21,9 +21,6 @@ BLOOM family
 # Sources
 Code: Abraham Wilkins
 Literature: 
-On the Symmetry of Coordination
-and Gradient Selectional Restrictions, Przepiorkowski and Patejuk (2025)
-
 How Furiously Can Colorless Green Ideas Sleep?
 Sentence Acceptability in Context, Lau. et al. 
 
